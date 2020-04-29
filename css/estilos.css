@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(216, 212, 212);
+}
+.conta{
+    margin: 0 auto;
+    width: 500px;
+}
+.cajita{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 90px;
+}
+.cajita2{
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+nav{
+    padding: 0;
+}
+nav li{
+    display: inline;
+}
+#contenido{
+    padding-left: 17px;
+}
